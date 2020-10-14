@@ -4,6 +4,7 @@ Anggota Kelompok :
 - Hafizha Ulinnuha Ahmad
 - Muhammad Habib Arbiyanto
 - Muhammad Haidar Izzuddin
+- Naufal Fajar Kusumawardhana
 - Thoha Ruli Hananto
 - Ubai
 
